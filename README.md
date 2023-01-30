@@ -36,7 +36,9 @@ Save your changes.
 
 Now you have to push your changes to github.
 ```git add --all```
+
 ```git commit -m "SOME TEXT DESCRIBING CHANGE"```
+
 ```git push```
 
 
