@@ -24,12 +24,12 @@ Some basic shell commands to familiarize yourself if you're not familiar:
 
 ## Instructions 
 
-Clone (copy) your repository to your local machine using a ``git clone git@github.com:cos205/assignment-0-TEAMNAME``
+Clone (copy) your repository to your local machine using ``git clone git@github.com:cos205/assignment-0-TEAMNAME``
 
-Then change into the github directory by executin ``` cd assignment-0-TEAMNAME ```
+Then change into the github directory by executing ``` cd assignment-0-TEAMNAME ```
 
-Open fule ```name.txt``` by using your chosen editor. For example ```code name.txt``` which will open up a VSCode instance of your
-file. Then edit it and include your name, email, and NetId.
+Open the file ```name.txt``` by using your chosen editor. For example: ```code name.txt``` will open a VSCode instance of your
+file. Then edit the file and include your name, email, and NetId.
 
 Save your changes.
 
@@ -40,5 +40,3 @@ Now push your changes to github:
 ```git commit -m "SOME TEXT DESCRIBING CHANGE"```
 
 ```git push```
-
-
