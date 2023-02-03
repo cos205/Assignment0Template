@@ -28,7 +28,7 @@ Clone (copy) your repository to your local machine using ``git clone git@github.
 
 Then change into the github directory by executing ``` cd assignment-0-TEAMNAME ```
 
-Open the file ```name.txt``` using your chosen editor. For example: ```code name.txt``` will open a VSCode instance of your
+Open the file ```name.txt``` using your chosen editor. For example, ```code name.txt``` will open a VSCode instance of your
 file. Then edit the file by entering your name, email, and NetId.
 
 Save your changes.
