@@ -1,7 +1,7 @@
 # COS205 Assignment 0
 
 The only purpose of this assignment is to practice submitting files through github classroom.
-All you have to do is add a file at the root directory with your name, NetId, and Princeton email, and push to github.
+All you have to do is edit a file at the root directory with your name, NetId, and Princeton email, and push to github.
 
 ## Shell
 
